@@ -149,6 +149,7 @@ td#mal_cs_pic{ display:none }
 	text-align:right;
 	border:none;
 	outline:none;
+	border-radius: 25px;
 	color:#555;
 	-webkit-border-radius:1px;
 	-moz-border-radius:1px;
